@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+<classpathentry kind="lib" path="/Users/pparonson/.gradle/caches/modules-2/files-2.1/semantic-csv/semantic-csv/0.1.0/e7ecefab3794b9df2167a321cb96f9b291ed525f/semantic-csv-0.1.0.jar"/>
+<classpathentry kind="lib" path="/Users/pparonson/.gradle/caches/modules-2/files-2.1/org.clojure/data.csv/0.1.3/c8aa415e0572112453b07695d511da96e846bb68/data.csv-0.1.3.jar" sourcepath="/Users/pparonson/.gradle/caches/modules-2/files-2.1/org.clojure/data.csv/0.1.3/6e3b6e0509cc98292d5694968360d9ddb254a91b/data.csv-0.1.3-sources.jar"/>
+<classpathentry kind="lib" path="/Users/pparonson/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.0/aa8f7553253318c468f90ce58a85f94bd1a224eb/scala-library-2.11.0.jar" sourcepath="/Users/pparonson/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.0/53c598cb0fae816c1d902ea2a2290119a5fb14f1/scala-library-2.11.0-sources.jar"/>
+<classpathentry kind="lib" path="/Users/pparonson/.gradle/caches/modules-2/files-2.1/org.clojure/clojure/1.5.1/e7e53da8bc4ac41fca95ccfacf84f9469dd3147f/clojure-1.5.1.jar" sourcepath="/Users/pparonson/.gradle/caches/modules-2/files-2.1/org.clojure/clojure/1.5.1/5c8e650b03ed0f000d7399cfcb03771a00b9dcd5/clojure-1.5.1-sources.jar"/>
+<classpathentry kind="lib" path="/Users/pparonson/.gradle/caches/modules-2/files-2.1/clojure-csv/clojure-csv/2.0.1/914af61c21eb8bf283b948c120dda22028f3d56f/clojure-csv-2.0.1.jar"/>
+<classpathentry kind="lib" path="/Users/pparonson/Downloads/resource file/Section_2/cloj-dev/edu-cloj/lib/clj-http-2.1.0.jar"/>
+<classpathentry kind="lib" path="/Users/pparonson/Downloads/resource file/Section_2/cloj-dev/edu-cloj/lib/clojure-1.8.0.jar"/>
+<classpathentry kind="src" path="/edu-cloj"/>
+<classpathentry kind="src" path="/edu-scala"/>
+</classpath>
